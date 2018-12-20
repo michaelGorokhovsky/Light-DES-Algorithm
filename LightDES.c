@@ -1,6 +1,5 @@
 /*
-	Lauren Marsillo 500689959
-	Michael Gorokhovsky 500681974
+	Michael Gorokhovsky
 */
 
 #include <stdio.h>
